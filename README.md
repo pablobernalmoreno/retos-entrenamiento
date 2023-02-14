@@ -9,13 +9,12 @@ Para cada reto crear una rama distinta a la rama "main" que siga la siguiente no
 ## Reto 2
 1. Implementar los styled-components dentro los componentes del proyecto (https://styled-components.com/)
 2. Crear una barra de navegación, la cual debe cumplir el siguiente esquema:
-  1. Debe tener los siguientes componentes:
     1. Botón drawer (para abrir opciones extras)
     2. Botón perfil
     3. Botón para cambiar el tema (light/dark)
     4. La barra de busqueda y el botón de busqueda del reto anterior deben estar en esta barra de navegación
     5. La barra de navegación debe tener de estilo position: sticky (https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-  2. Elegir BaaS para implementar. Puede ser el que más les guste, como opciones se proponen las siguientes:
+3. Elegir BaaS para implementar. Puede ser el que más les guste, como opciones se proponen las siguientes:
     1. SupaBase (https://supabase.com/)
     2. PocketBase (https://pocketbase.io/)
     

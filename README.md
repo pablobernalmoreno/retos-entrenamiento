@@ -12,8 +12,9 @@ Para cada reto crear una rama distinta a la rama "main" que siga la siguiente no
   1. Debe tener los siguientes componentes:
     1. Botón drawer (para abrir opciones extras)
     2. Botón perfil
-    3. La barra de busqueda y el botón de busqueda del reto anterior deben estar en esta barra de navegación
-    4. La barra de busqueda debe tener de estilo position: sticky (https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+    3. Botón para cambiar el tema (light/dark)
+    4. La barra de busqueda y el botón de busqueda del reto anterior deben estar en esta barra de navegación
+    5. La barra de busqueda debe tener de estilo position: sticky (https://developer.mozilla.org/en-US/docs/Web/CSS/position)
   2. Elegir BaaS para implementar. Puede ser el que más les guste, como opciones se proponen las siguientes:
     1. SupaBase (https://supabase.com/)
     2. PocketBase (https://pocketbase.io/)

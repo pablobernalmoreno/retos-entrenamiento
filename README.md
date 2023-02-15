@@ -5,6 +5,7 @@ Para cada reto crear una rama distinta a la rama "main" que siga la siguiente no
 ## Reto #1
 1. Crear un repositorio usando el comando de "create-react-app" (https://create-react-app.dev/docs/getting-started) 
 2. Crear los siguientes componentes: Titulo, Barra de busqueda y Botón submit, para que estén posicionados y estilizados de esta forma: ![image](https://user-images.githubusercontent.com/26677733/218548015-1f9cc937-72b6-4930-a1df-5f4e7ed6de39.png)
+Para los componentes se pueden crear usando HTML vanilla o frameworks de componentes como material-ui (https://v4.mui.com/), bootstrap (https://getbootstrap.com/) o el que más disfruten!
 
 ## Reto 2
 1. Para el estilizado de la app podemos implementar varias alternativas, como opciones se proponen las siguientes 

@@ -8,7 +8,7 @@ Para cada reto crear una rama distinta a la rama "main" que siga la siguiente no
 
 Para los componentes se pueden crear usando HTML vanilla o frameworks de componentes como material-ui (https://v4.mui.com/), bootstrap (https://getbootstrap.com/) o el que más disfruten!
 
-## Reto 2
+## Reto #2
 1. Para el estilizado de la app podemos implementar varias alternativas, como opciones se proponen las siguientes 
     1. styled-components (https://styled-components.com/) 
     2. Styled de material ui (https://mui.com/system/styled/) la elección es libre
@@ -21,6 +21,10 @@ Para los componentes se pueden crear usando HTML vanilla o frameworks de compone
 4. Elegir BaaS para implementar. Puede ser el que más les guste, como opciones se proponen las siguientes:
     1. SupaBase (https://supabase.com/)
     2. PocketBase (https://pocketbase.io/)
+    
+## Reto #3
+1. Implementar react-redux https://es.redux.js.org/ con todos sus componentes (store, reducer, actions y types)
+2. El primer reducer a implementar y usar es el reducer para manejar el estado global de la aplicación para el tema (claro/oscuro)
     
     
     

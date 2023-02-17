@@ -23,8 +23,10 @@ Para los componentes se pueden crear usando HTML vanilla o frameworks de compone
     2. PocketBase (https://pocketbase.io/)
     
 ## Reto #3
-1. Implementar react-redux https://es.redux.js.org/ con todos sus componentes (store, reducer, actions y types)
-2. El primer reducer a implementar y usar es el reducer para manejar el estado global de la aplicación para el tema (claro/oscuro)
+1. Crear las cartas donde se muestren los juegos (objetos) en venta, el estilizado es libre pero deben tener los siguientes campos (Nombre juego, precio, cantidad en stock, imagen, descripción)
+2. Llenar la base de datos con algunos elementos para que estos se muestren en la página
+3. Implementar react-redux https://es.redux.js.org/ con todos sus componentes (store, reducer, actions y types)
+4. El primer reducer a implementar y usar es el reducer para manejar el estado global de la aplicación para el tema (claro/oscuro)
     
     
     

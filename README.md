@@ -27,8 +27,12 @@ Para los componentes se pueden crear usando HTML vanilla o frameworks de compone
 2. Llenar la base de datos con algunos elementos para que estos se muestren en la página
 3. Implementar react-redux https://es.redux.js.org/ con todos sus componentes (store, reducer, actions y types)
 4. El primer reducer a implementar y usar es el reducer para manejar el estado global de la aplicación para el tema (claro/oscuro)
-    
-    
+
+## Reto #4
+1. Añadir a la barra de navegación un carrito de compra
+2. Añadir a las cartas de juegos un botón para añadirlo al carrito
+3. Añadir una badge al icono del carrito de compras para que se pueda saber cuántos articulos hay en este carrito
+4. Añadir un modal (puede ser usando react portals:https://reactjs.org/docs/portals.html o usando el dialog de material ui:https://mui.com/material-ui/react-dialog/) al carrito de compras en el cual se puedan ver los articulos del carrito (en una versión más pequeña donde solo haya nombre y depronto imagen)
     
     
 Muchos éxitos :)

@@ -33,6 +33,8 @@ Para los componentes se pueden crear usando HTML vanilla o frameworks de compone
 2. Añadir a las cartas de juegos un botón para añadirlo al carrito
 3. Añadir una badge al icono del carrito de compras para que se pueda saber cuántos articulos hay en este carrito
 4. Añadir un modal (puede ser usando react portals:https://reactjs.org/docs/portals.html o usando el dialog de material ui:https://mui.com/material-ui/react-dialog/) al carrito de compras en el cual se puedan ver los articulos del carrito (en una versión más pequeña donde solo haya nombre y depronto imagen)
+5. Añadir también dos botones, "view details" y un botón para eliminar el elemento, la funcionalidad de view details entrará en otro reto, pero si implementar la funcionalidad de borrar elementos
+
     
     
 Muchos éxitos :)

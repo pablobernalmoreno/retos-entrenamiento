@@ -37,7 +37,7 @@ Para los componentes se pueden crear usando HTML vanilla o frameworks de compone
 
 ## Reto 5
 1. Añadir PropTypes a los componentes creados (se deben instalar: https://reactjs.org/docs/typechecking-with-proptypes.html)
-2. 
+2. Añadir JSDoc https://www.inkoop.io/blog/a-guide-to-js-docs-for-react-js/
     
     
 Muchos éxitos :)

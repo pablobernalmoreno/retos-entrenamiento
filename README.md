@@ -35,6 +35,9 @@ Para los componentes se pueden crear usando HTML vanilla o frameworks de compone
 4. Añadir un modal (puede ser usando react portals:https://reactjs.org/docs/portals.html o usando el dialog de material ui:https://mui.com/material-ui/react-dialog/) al carrito de compras en el cual se puedan ver los articulos del carrito (en una versión más pequeña donde solo haya nombre y depronto imagen)
 5. Añadir también dos botones, "view details" y un botón para eliminar el elemento, la funcionalidad de view details entrará en otro reto, pero si implementar la funcionalidad de borrar elementos
 
+## Reto 5
+1. Añadir PropTypes a los componentes creados (se deben instalar: https://reactjs.org/docs/typechecking-with-proptypes.html)
+2. 
     
     
 Muchos éxitos :)

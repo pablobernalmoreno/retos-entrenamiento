@@ -39,5 +39,11 @@ Para los componentes se pueden crear usando HTML vanilla o frameworks de compone
 1. Añadir PropTypes a los componentes creados (se deben instalar: https://reactjs.org/docs/typechecking-with-proptypes.html)
 2. Añadir JSDoc https://www.inkoop.io/blog/a-guide-to-js-docs-for-react-js/
     
+## Reto 6 
+Vamos a implementar react router(https://reactrouter.com/en/main), para eso haremos lo siguiente:
+1. Crear el router donde pondremos nuestras rutas, este router irá en App.js (puede estar directamente en App.js o exportarlo de otra parte)
+2. Nuestra pantalla main va a ser la ruta default '/'
+3. Crearemos otra ruta que se llame 'game/:gameId' donde se mostraran datos de cada juego, siendo gameId el id del juego dentro de nuestra DB
+
     
 Muchos éxitos :)

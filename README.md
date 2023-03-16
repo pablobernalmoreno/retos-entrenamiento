@@ -45,5 +45,7 @@ Vamos a implementar react router(https://reactrouter.com/en/main), para eso hare
 2. Nuestra pantalla main va a ser la ruta default '/'
 3. Crearemos otra ruta que se llame 'game/:gameId' donde se mostraran datos de cada juego, siendo gameId el id del juego dentro de nuestra DB
 
+## Reto #7
+Vamos a implementar custom hooks para la llamada de las apis: https://es.reactjs.org/docs/hooks-custom.html
     
 Muchos éxitos :)

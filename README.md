@@ -47,5 +47,15 @@ Vamos a implementar react router(https://reactrouter.com/en/main), para eso hare
 
 ## Reto #7
 Vamos a implementar custom hooks para la llamada de las apis: https://es.reactjs.org/docs/hooks-custom.html
+
+## Reto #8
+En este reto vamos a estilizar la página de cada juego que creamos en el reto #6, en este reto vamos a tener libertad creativa pero si quiero que muestre las siguientes cosas:
+1. Imagen del juego grande
+2. Nombre del juego
+3. Descripción de cada juego
+4. Cantidad en stock
+5. Precio
+6. Tags (añadir tags a cada juego)
+7. Comentarios de los usuarios (por ahora populados manualmente)
     
 Muchos éxitos :)

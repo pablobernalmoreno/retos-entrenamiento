@@ -57,5 +57,9 @@ En este reto vamos a estilizar la página de cada juego que creamos en el reto #
 5. Precio
 6. Tags (añadir tags a cada juego)
 7. Comentarios de los usuarios (por ahora populados manualmente)
+
+## Reto #9
+Para este reto vamos a crear otra ruta para los tags, entonces cada tag va a tener su propia ruta "/tags/:tag", acá mostraremos todos los juegos que contengan dicho tag. También hay que tener cuidado con las rutas anidadas ya que de la página "tags/:tag" podemos ir a la página de cada juego "games/:game" y no es lo mismo "home/game/:game" que "home/tags/:tag/game/:game"
+
     
 Muchos éxitos :)

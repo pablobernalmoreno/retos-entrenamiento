@@ -61,5 +61,8 @@ En este reto vamos a estilizar la página de cada juego que creamos en el reto #
 ## Reto #9
 Para este reto vamos a crear otra ruta para los tags, entonces cada tag va a tener su propia ruta "/tags/:tag", acá mostraremos todos los juegos que contengan dicho tag. También hay que tener cuidado con las rutas anidadas ya que de la página "tags/:tag" podemos ir a la página de cada juego "games/:game" y no es lo mismo "home/game/:game" que "home/tags/:tag/game/:game"
 
+## Reto 10
+En este reto crearemos por fin la funcionalidad de "búsqueda de juego" en este haremos que al darle submit al botón de búsqueda con el nombre de algún juego, nos lleve a la página de este, por lo que tendremos que buscar el id del juego solo con el nombre de este y al hacer match, llevarlo a la página que es, si el nombre está mal o no se encuentra, llevarlo a la página de error.
+Como bonus del reto, podemos implementar un "te refieres a" o algo por el estilo para que en caso de que el nombre buscado no exista o esté mal escrito, recomendarle al usuario algún juego similar (o algunos)
     
 Muchos éxitos :)

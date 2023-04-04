@@ -64,5 +64,11 @@ Para este reto vamos a crear otra ruta para los tags, entonces cada tag va a ten
 ## Reto 10
 En este reto crearemos por fin la funcionalidad de "búsqueda de juego" en este haremos que al darle submit al botón de búsqueda con el nombre de algún juego, nos lleve a la página de este, por lo que tendremos que buscar el id del juego solo con el nombre de este y al hacer match, llevarlo a la página que es, si el nombre está mal o no se encuentra, llevarlo a la página de error.
 Como bonus del reto, podemos implementar un "te refieres a" o algo por el estilo para que en caso de que el nombre buscado no exista o esté mal escrito, recomendarle al usuario algún juego similar (o algunos)
-    
+
+## Reto 11
+En este reto vamos a implementar private routing, para esto crearemos primero una página de login para ir a esta página será dandole click al botón de "perfil" que tenemos en nuestra navbar, al estar ya logeados, vamos a usar el sistema de auth de pocketbase (en caso de usar otro CMS, buscar su sistema de auth) https://pocketbase.io/docs/authentication. Al tener todo esto, crearemos nuestra primer ruta privada, esta será para registrar un nuevo juego, entonces al estar registrados se cargara la página sin problema, en caso de no estar registrado, se debe redirigir al usuario a otra página (ya queda a criterio nuestro si es una página error o lo llevamos nuevamente al main page). En la página de registro de juego, crearemos un simple formulario donde llenaremos los campos básicos del juego que crearemos y así podemos hacer el POST
+
+## Reto 12
+Tristemente, create-react-app ha muerto, por lo que la documentación nos pide que utilicemos un framework, entonces antes de seguir con cualquier cosa, debemos migrar a un framework para evitar errores en el fúturo. Existen varios, pero los mayores a día de hoy son NextJs(https://nextjs.org/) y Gatsby(https://www.gatsbyjs.com/)
+
 Muchos éxitos :)
